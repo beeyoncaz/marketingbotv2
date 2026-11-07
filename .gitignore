@@ -4,3 +4,5 @@ node_modules
 .env.local
 service-account.json
 .vercel
+.env.vercel.env.vercel
+tsconfig.tsbuildinfo
